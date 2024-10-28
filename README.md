@@ -5,3 +5,5 @@ Ce projet est une application web de gestion de cours et de devoirs
 - Une messagerie permet aux élèves de communiquer avec leur professeur
 
 L'application est construite avec Angular pour le frontend et Symfony pour le backend.
+
+## Nom provisoire : Particours
